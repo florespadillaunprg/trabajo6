@@ -1,2 +1,4 @@
-# trabajo6
-validadores
+# Integrantes:
+
+alex flores padilla
+tarrillo cotrina noemi
